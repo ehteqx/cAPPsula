@@ -1,10 +1,10 @@
-OUR APPLICATION SHOULD HAVE...
+﻿OUR APPLICATION SHOULD HAVE...
 
-- Pharmacy locator on a map (static & starting from given address or your address from GPS) # With contacts & info
-- Pharmacy opening times / days (sunday, holiday...) �
-- Filter by drug * !!!!Contact a doctor in order to make a list of symptoms and drugs (maybe the most common)
-- Filter by symptom * !!!!Contact a doctor in order to make a list of symptoms and drugs (maybe the most common)
-- Route planner (* with the needed product; � that is open that time) # Using Google Maps
+- Pharmacy locator on a map (static & starting from given address or your address from GPS) # With contacts & info §§ OFFLINE
+- Pharmacy opening times / days (sunday, holiday...) ° §§ OFFLINE
+- Filter by drug * !!!!Contact a doctor in order to make a list of symptoms and drugs (maybe the most common) §§ ONLINE
+- Filter by symptom * !!!!Contact a doctor in order to make a list of symptoms and drugs (maybe the most common) §§ ONLINE
+- Route planner (* with the needed product; ° that is open that time) # Using Google Maps §§ ONLINE or OFFLINE (depending on which maps have you downloaded locally from the net).
 
 ########################################################################
 Feel yourself free to make any change you want to this file!
