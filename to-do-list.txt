@@ -4,7 +4,9 @@
 - Pharmacy opening times / days (sunday, holiday...) + §§ OFFLINE
 - Filter by drug * !!!!Contact a doctor in order to make a list of symptoms and drugs (maybe the most common) §§ ONLINE
 - Filter by symptom * !!!!Contact a doctor in order to make a list of symptoms and drugs (maybe the most common) §§ ONLINE
-- Route planner (* with the needed product; + that is open that time) # Using Google Maps §§ ONLINE or OFFLINE (depending on which maps have you downloaded locally from the net).
+- Route planner (* with the needed product; + that is open that time) # Using Google Maps §§ ONLINE or OFFLINE (depending on which maps have you downloaded locally from the net)
+- Medicines' cost
+- Buy and order from online
 
 ########################################################################
 Feel yourself free to make any change you want to this file!
