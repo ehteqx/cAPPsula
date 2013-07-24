@@ -5,7 +5,7 @@
 "CAPPSULA" Project Official GitHub Repository - EESTEC Summer School 2013
 
 
-## Redesigning the concept of healthcare in the 21st Century... through ICT! ##
++++ Redesigning the concept of healthcare in the 21st Century... through ICT! +++
 
 
 
