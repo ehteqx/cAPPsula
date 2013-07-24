@@ -6,6 +6,11 @@
 - Filter by symptom * !!!!Contact a doctor in order to make a list of symptoms and drugs (maybe the most common) §§ ONLINE
 - Route planner (* with the needed product; + that is open that time) # Using Google Maps §§ ONLINE or OFFLINE (depending on which maps have you downloaded locally from the net)
 - Medicines' cost
+- Medicine database as a service offered to pharmacies in order to make available the list of what medicine is available in which farmacy
+- Pharmacies working hours and days...
+- Doctor's location
+- Doctor's meeting planner with INSIEL S.p.A. aggregated data
+- Take your capsule!! (pill reminder)
 /// - Buy and order from online
 /// - Strong authentication and doctors 
 
