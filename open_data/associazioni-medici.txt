@@ -1,0 +1,5043 @@
+[
+  {
+    "id": "AA000543",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "IOP",
+        "nome": "CECILIA",
+        "crm": "000823",
+        "distretto": 0
+      },
+      {
+        "cognome": "LENARDUZZI",
+        "nome": "LUCIO",
+        "crm": "000491",
+        "distretto": 0
+      },
+      {
+        "cognome": "FERRATO",
+        "nome": "DANILLA",
+        "crm": "000394",
+        "distretto": 0
+      },
+      {
+        "cognome": "CAMPAGNER",
+        "nome": "DANILLA",
+        "crm": "000442",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000542",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "DEDOR",
+        "nome": "DANILO",
+        "crm": "000585",
+        "distretto": 0
+      },
+      {
+        "cognome": "PLACEREANI",
+        "nome": "ANNUNZIATA",
+        "crm": "000541",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE MARTINO",
+        "nome": "ROSA MARIA",
+        "crm": "000586",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE FILIPPIS",
+        "nome": "CESARE",
+        "crm": "000250",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000539",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "DELL ANGELO",
+        "nome": "CESARINA",
+        "crm": "000084",
+        "distretto": 0
+      },
+      {
+        "cognome": "APPIAH BOATEN",
+        "nome": "CESARINA",
+        "crm": "000731",
+        "distretto": 0
+      },
+      {
+        "cognome": "DASSIE",
+        "nome": "JANICE",
+        "crm": "000166",
+        "distretto": 0
+      },
+      {
+        "cognome": "NICOLINI",
+        "nome": "ENZO",
+        "crm": "000091",
+        "distretto": 0
+      },
+      {
+        "cognome": "RIJNERS",
+        "nome": "GUERRINO",
+        "crm": "001094",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000537",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "MERCURIALI",
+        "nome": "MARIA ANGELA",
+        "crm": "000629",
+        "distretto": 0
+      },
+      {
+        "cognome": "ORSINI",
+        "nome": "EMRICA",
+        "crm": "000624",
+        "distretto": 0
+      },
+      {
+        "cognome": "LAFLEUR",
+        "nome": "GIAMPAOLO",
+        "crm": "000247",
+        "distretto": 0
+      },
+      {
+        "cognome": "MANFREDO",
+        "nome": "IVAN",
+        "crm": "001210",
+        "distretto": 0
+      },
+      {
+        "cognome": "ELLINSON",
+        "nome": "LEDA",
+        "crm": "000220",
+        "distretto": 0
+      },
+      {
+        "cognome": "BENVENUTO",
+        "nome": "ORSALA",
+        "crm": "000946",
+        "distretto": 0
+      },
+      {
+        "cognome": "TADDEI",
+        "nome": "DARIO",
+        "crm": "000550",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000534",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "AKISIRAK",
+        "nome": "ALESSIA",
+        "crm": "000670",
+        "distretto": 0
+      },
+      {
+        "cognome": "SCHIAVONE",
+        "nome": "SALLY",
+        "crm": "000599",
+        "distretto": 0
+      },
+      {
+        "cognome": "GOBBATO",
+        "nome": "VITTORIO",
+        "crm": "000290",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000533",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "DI TOMMASO",
+        "nome": "CATERINA",
+        "crm": "000829",
+        "distretto": 0
+      },
+      {
+        "cognome": "FUFURLANIS",
+        "nome": "MARGARET",
+        "crm": "000703",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000499",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "MANTELLO",
+        "nome": "ANSELMO",
+        "crm": "000095",
+        "distretto": 0
+      },
+      {
+        "cognome": "DAS",
+        "nome": "DINO",
+        "crm": "000165",
+        "distretto": 0
+      },
+      {
+        "cognome": "IFEOMA",
+        "nome": "SUSY",
+        "crm": "000087",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000530",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "CONTARDO",
+        "nome": "RYCKY",
+        "crm": "000212",
+        "distretto": 0
+      },
+      {
+        "cognome": "DAL MAS",
+        "nome": "MAURO",
+        "crm": "000361",
+        "distretto": 0
+      },
+      {
+        "cognome": "LUVISOTTO",
+        "nome": "GIANNINO",
+        "crm": "000258",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000498",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "CASTREJON SALAS",
+        "nome": "DAVIDE DIEGO",
+        "crm": "000991",
+        "distretto": 0
+      },
+      {
+        "cognome": "FORTUNATO",
+        "nome": "DANILO",
+        "crm": "000543",
+        "distretto": 0
+      },
+      {
+        "cognome": "LAKO",
+        "nome": "MARTA",
+        "crm": "001097",
+        "distretto": 0
+      },
+      {
+        "cognome": "CAILE",
+        "nome": "MARIA-CELESTE",
+        "crm": "001121",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000497",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "CASTREJON SALAS",
+        "nome": "PRIVATO",
+        "crm": "000283",
+        "distretto": 0
+      },
+      {
+        "cognome": "SPIVEY",
+        "nome": "ALEXANDRO",
+        "crm": "000952",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE BIASI",
+        "nome": "ORSALA",
+        "crm": "001055",
+        "distretto": 0
+      },
+      {
+        "cognome": "STRUMENDO",
+        "nome": "MARISA",
+        "crm": "000959",
+        "distretto": 0
+      },
+      {
+        "cognome": "TOMMASI",
+        "nome": "ALEXANDRO",
+        "crm": "001080",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000492",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "GALETTI",
+        "nome": "PIER GIACOMO",
+        "crm": "000312",
+        "distretto": 0
+      },
+      {
+        "cognome": "BURELLI",
+        "nome": "ALEX",
+        "crm": "000259",
+        "distretto": 0
+      },
+      {
+        "cognome": "SCHIAVONS",
+        "nome": "SILVANA",
+        "crm": "000303",
+        "distretto": 0
+      },
+      {
+        "cognome": "SPADOTTO",
+        "nome": "BRUNO",
+        "crm": "000409",
+        "distretto": 0
+      },
+      {
+        "cognome": "SAINT",
+        "nome": "JOLANDA",
+        "crm": "000681",
+        "distretto": 0
+      },
+      {
+        "cognome": "PIAZZO",
+        "nome": "PIER GIACOMO",
+        "crm": "000280",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000094",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "DE CESERO",
+        "nome": "ALESSIA",
+        "crm": "000516",
+        "distretto": 0
+      },
+      {
+        "cognome": "BASILI",
+        "nome": "GUGLIELMO",
+        "crm": "000785",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000526",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "SCODELLER",
+        "nome": "GILDA",
+        "crm": "000155",
+        "distretto": 0
+      },
+      {
+        "cognome": "TUMIETTO",
+        "nome": "PAVILIO",
+        "crm": "000707",
+        "distretto": 0
+      },
+      {
+        "cognome": "SELLAN",
+        "nome": "SUSY",
+        "crm": "000600",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000525",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "BRUNETTIN",
+        "nome": "ALEXANDRO",
+        "crm": "000320",
+        "distretto": 0
+      },
+      {
+        "cognome": "WU",
+        "nome": "MICHIEI ANNA",
+        "crm": "001100",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE STEFANI",
+        "nome": "ANNINA",
+        "crm": "001132",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000523",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "CARATTOZZOLO",
+        "nome": "BERR GUIDO",
+        "crm": "000428",
+        "distretto": 0
+      },
+      {
+        "cognome": "MASSARUTO",
+        "nome": "ELDA",
+        "crm": "000350",
+        "distretto": 0
+      },
+      {
+        "cognome": "PANIZZON",
+        "nome": "CESARINA",
+        "crm": "000325",
+        "distretto": 0
+      },
+      {
+        "cognome": "COSTANZO",
+        "nome": "CALDERARO LORENA",
+        "crm": "000346",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000489",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "MESCOLIN",
+        "nome": "MARIA LUCIA",
+        "crm": "001177",
+        "distretto": 0
+      },
+      {
+        "cognome": "FELACO",
+        "nome": "PIER GIACOMO",
+        "crm": "000972",
+        "distretto": 0
+      },
+      {
+        "cognome": "DELLA NORA",
+        "nome": "FABIO",
+        "crm": "000961",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000520",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "ABOU SAAD",
+        "nome": "DANILO",
+        "crm": "000494",
+        "distretto": 0
+      },
+      {
+        "cognome": "MARCOLIN",
+        "nome": "FISELINA",
+        "crm": "001194",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000487",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "SEKYERE SEKYERE",
+        "nome": "IOLANDA",
+        "crm": "001180",
+        "distretto": 0
+      },
+      {
+        "cognome": "COLLODER",
+        "nome": "TERSILIA",
+        "crm": "000352",
+        "distretto": 0
+      },
+      {
+        "cognome": "BARBIERI",
+        "nome": "PASQUALINA",
+        "crm": "000235",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000485",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "VORBINEC",
+        "nome": "MARISA",
+        "crm": "000149",
+        "distretto": 0
+      },
+      {
+        "cognome": "BOTTEON",
+        "nome": "MARIA PIA",
+        "crm": "000874",
+        "distretto": 0
+      },
+      {
+        "cognome": "FANTIN",
+        "nome": "DARIO",
+        "crm": "000461",
+        "distretto": 0
+      },
+      {
+        "cognome": "BRUSADIN",
+        "nome": "RYCKY",
+        "crm": "000642",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000483",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "MENARD",
+        "nome": "IOLANDA",
+        "crm": "001095",
+        "distretto": 0
+      },
+      {
+        "cognome": "MANFREDO",
+        "nome": "MARIA LUCIA",
+        "crm": "000213",
+        "distretto": 0
+      },
+      {
+        "cognome": "TOFFOLETTI",
+        "nome": "TERESA MARTA",
+        "crm": "001109",
+        "distretto": 0
+      },
+      {
+        "cognome": "BROCCOLI",
+        "nome": "MARIO GIORGIO",
+        "crm": "001106",
+        "distretto": 0
+      },
+      {
+        "cognome": "BUFFO",
+        "nome": "FRANCESCA",
+        "crm": "001117",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000289",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "SEBIANI",
+        "nome": "SALLY",
+        "crm": "000577",
+        "distretto": 0
+      },
+      {
+        "cognome": "DA ROS",
+        "nome": "GUGLIELMO",
+        "crm": "000639",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000288",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "ROSA\u0027",
+        "nome": "IOLANDA",
+        "crm": "001101",
+        "distretto": 0
+      },
+      {
+        "cognome": "GIACOMINI",
+        "nome": "CESARINA",
+        "crm": "001137",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000081",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "GUGLIELMI",
+        "nome": "GENOVEFFA",
+        "crm": "000291",
+        "distretto": 0
+      },
+      {
+        "cognome": "SPERANDEO",
+        "nome": "ANNINA",
+        "crm": "000524",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000518",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "STOPPANI",
+        "nome": "CESARE",
+        "crm": "000956",
+        "distretto": 0
+      },
+      {
+        "cognome": "SALTAREL",
+        "nome": "EMILIO ERMES",
+        "crm": "000929",
+        "distretto": 0
+      },
+      {
+        "cognome": "IVAN",
+        "nome": "KARIA",
+        "crm": "000971",
+        "distretto": 0
+      },
+      {
+        "cognome": "VIO",
+        "nome": "EUGENIA",
+        "crm": "001019",
+        "distretto": 0
+      },
+      {
+        "cognome": "CODOGNOTTO",
+        "nome": "ALFREDO",
+        "crm": "001035",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000515",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "GENOVA",
+        "nome": "KARIA",
+        "crm": "000161",
+        "distretto": 0
+      },
+      {
+        "cognome": "LAGNI",
+        "nome": "PIA CRISTINA",
+        "crm": "000162",
+        "distretto": 0
+      },
+      {
+        "cognome": "NICOLINI",
+        "nome": "ISEO",
+        "crm": "001088",
+        "distretto": 0
+      },
+      {
+        "cognome": "BESOLI",
+        "nome": "FRANCO",
+        "crm": "000274",
+        "distretto": 0
+      },
+      {
+        "cognome": "FIORELLINI",
+        "nome": "VITTORIO",
+        "crm": "000159",
+        "distretto": 0
+      },
+      {
+        "cognome": "CARRAUDDO",
+        "nome": "JOLANDA",
+        "crm": "000163",
+        "distretto": 0
+      },
+      {
+        "cognome": "ORLANDO",
+        "nome": "GENNARO",
+        "crm": "001125",
+        "distretto": 0
+      },
+      {
+        "cognome": "PASUT",
+        "nome": "ANNINA",
+        "crm": "000094",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000514",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "GIOACHIN",
+        "nome": "CECILIA",
+        "crm": "000756",
+        "distretto": 0
+      },
+      {
+        "cognome": "GAYOT",
+        "nome": "PRANDINA",
+        "crm": "000322",
+        "distretto": 0
+      },
+      {
+        "cognome": "ZANETTE",
+        "nome": "PIER GIACOMO",
+        "crm": "000618",
+        "distretto": 0
+      },
+      {
+        "cognome": "ANTONIUTTI",
+        "nome": "CESARINA",
+        "crm": "000533",
+        "distretto": 0
+      },
+      {
+        "cognome": "FORMETIN",
+        "nome": "BERR GUIDO",
+        "crm": "000457",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000512",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "MANIAGO",
+        "nome": "SECONDO",
+        "crm": "000953",
+        "distretto": 0
+      },
+      {
+        "cognome": "MANIAGO",
+        "nome": "EDDA",
+        "crm": "001046",
+        "distretto": 0
+      },
+      {
+        "cognome": "PALU",
+        "nome": "BERNARDINA",
+        "crm": "001070",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000674",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "TURCOLIN",
+        "nome": "CLAUDIO",
+        "crm": "000777",
+        "distretto": 0
+      },
+      {
+        "cognome": "GUIZZO",
+        "nome": "GABRIELLA",
+        "crm": "000271",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000511",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "MARENDA",
+        "nome": "GIUDITTA",
+        "crm": "000263",
+        "distretto": 0
+      },
+      {
+        "cognome": "ZOGHEIB",
+        "nome": "INES ANNA",
+        "crm": "000512",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE BIN",
+        "nome": "BIANCA",
+        "crm": "000787",
+        "distretto": 0
+      },
+      {
+        "cognome": "CORSANICH",
+        "nome": "DARIO",
+        "crm": "000911",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE MARTINO",
+        "nome": "MARIA-CELESTE",
+        "crm": "000584",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000673",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "FAVRETTI",
+        "nome": "GIANCARLO",
+        "crm": "001128",
+        "distretto": 0
+      },
+      {
+        "cognome": "MUZZATI",
+        "nome": "SANDRO",
+        "crm": "000527",
+        "distretto": 0
+      },
+      {
+        "cognome": "SGUERZI",
+        "nome": "ORSOLA",
+        "crm": "000148",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000479",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "DE FALCO",
+        "nome": "BERNARDINA",
+        "crm": "000583",
+        "distretto": 0
+      },
+      {
+        "cognome": "BARRETTI",
+        "nome": "CESARINA",
+        "crm": "001029",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000510",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "PALERMO",
+        "nome": "CESARE",
+        "crm": "001060",
+        "distretto": 0
+      },
+      {
+        "cognome": "PRRIN",
+        "nome": "NICOLA",
+        "crm": "001050",
+        "distretto": 0
+      },
+      {
+        "cognome": "DELL ANGELO",
+        "nome": "CORRADINO",
+        "crm": "000989",
+        "distretto": 0
+      },
+      {
+        "cognome": "STELLA",
+        "nome": "SAVERIO",
+        "crm": "000887",
+        "distretto": 0
+      },
+      {
+        "cognome": "FRANCESCHI",
+        "nome": "ROSA MARIA",
+        "crm": "000962",
+        "distretto": 0
+      },
+      {
+        "cognome": "PAGURA",
+        "nome": "CECILIA",
+        "crm": "001062",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000672",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "MILLER",
+        "nome": "FORTUNATA",
+        "crm": "000757",
+        "distretto": 0
+      },
+      {
+        "cognome": "ALTOE",
+        "nome": "CALDERARO LORENA",
+        "crm": "000770",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000671",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "PAYOLA",
+        "nome": "MARGARET",
+        "crm": "000477",
+        "distretto": 0
+      },
+      {
+        "cognome": "DUZI",
+        "nome": "ALEXANDRO",
+        "crm": "000455",
+        "distretto": 0
+      },
+      {
+        "cognome": "DAVID",
+        "nome": "LILIANA",
+        "crm": "000470",
+        "distretto": 0
+      },
+      {
+        "cognome": "WU",
+        "nome": "MARCELLA",
+        "crm": "000103",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000315",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "GRIZZO",
+        "nome": "MARGARET",
+        "crm": "000658",
+        "distretto": 0
+      },
+      {
+        "cognome": "SEBASTIANI",
+        "nome": "DARIO",
+        "crm": "000903",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE ZOLT",
+        "nome": "DANILO",
+        "crm": "000847",
+        "distretto": 0
+      },
+      {
+        "cognome": "PASIAN",
+        "nome": "MARIA-CELESTE",
+        "crm": "000458",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000670",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "LONG",
+        "nome": "RYCKY",
+        "crm": "000755",
+        "distretto": 0
+      },
+      {
+        "cognome": "D ALBIS",
+        "nome": "MARIO GIORGIO",
+        "crm": "001040",
+        "distretto": 0
+      },
+      {
+        "cognome": "WORKAM",
+        "nome": "ORSOLINA",
+        "crm": "000958",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE CONTO",
+        "nome": "TERESA MARTA",
+        "crm": "001072",
+        "distretto": 0
+      },
+      {
+        "cognome": "FRANZIER",
+        "nome": "THOMAS",
+        "crm": "000966",
+        "distretto": 0
+      },
+      {
+        "cognome": "MOUDRIK",
+        "nome": "JANICE",
+        "crm": "000743",
+        "distretto": 0
+      },
+      {
+        "cognome": "MENGO",
+        "nome": "BIAGIO",
+        "crm": "000748",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000313",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "RUINI",
+        "nome": "SUSY",
+        "crm": "000576",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROMANO",
+        "nome": "DILIA",
+        "crm": "000110",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROSA\u0027",
+        "nome": "LUIGI",
+        "crm": "000104",
+        "distretto": 0
+      },
+      {
+        "cognome": "EMPOLDI",
+        "nome": "GIOVANNI",
+        "crm": "000419",
+        "distretto": 0
+      },
+      {
+        "cognome": "RUMINEL",
+        "nome": "WANDA",
+        "crm": "000292",
+        "distretto": 0
+      },
+      {
+        "cognome": "PORTELLO",
+        "nome": "ILARIO",
+        "crm": "000118",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000312",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "ANZANELLO",
+        "nome": "GIANNINO",
+        "crm": "000275",
+        "distretto": 0
+      },
+      {
+        "cognome": "MAGNONI",
+        "nome": "ANNAMARIA",
+        "crm": "001164",
+        "distretto": 0
+      },
+      {
+        "cognome": "RIZZATI",
+        "nome": "CARLA TERESA",
+        "crm": "000398",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000474",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "ZIZIOLI",
+        "nome": "CARLAMARIA",
+        "crm": "000625",
+        "distretto": 0
+      },
+      {
+        "cognome": "LEOCI",
+        "nome": "VALENTINO",
+        "crm": "000876",
+        "distretto": 0
+      },
+      {
+        "cognome": "MICELI",
+        "nome": "BASILIO",
+        "crm": "000780",
+        "distretto": 0
+      },
+      {
+        "cognome": "COSSUTTA",
+        "nome": "GEMMA",
+        "crm": "000700",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000472",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "CIAVATTI",
+        "nome": "RITA",
+        "crm": "000752",
+        "distretto": 0
+      },
+      {
+        "cognome": "MARCONI",
+        "nome": "ALVISE",
+        "crm": "000935",
+        "distretto": 0
+      },
+      {
+        "cognome": "VECELLIO SALTO",
+        "nome": "GIUDITTA",
+        "crm": "000927",
+        "distretto": 0
+      },
+      {
+        "cognome": "COLEMAN",
+        "nome": "IOLE ANNA",
+        "crm": "000928",
+        "distretto": 0
+      },
+      {
+        "cognome": "BABBUIN",
+        "nome": "SIMONE",
+        "crm": "001176",
+        "distretto": 0
+      },
+      {
+        "cognome": "DEL FABBRO",
+        "nome": "PIER GIACOMO",
+        "crm": "001032",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000471",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "CARDINALI",
+        "nome": "ECILIA",
+        "crm": "001012",
+        "distretto": 0
+      },
+      {
+        "cognome": "TROISI",
+        "nome": "ALFREDO",
+        "crm": "000630",
+        "distretto": 0
+      },
+      {
+        "cognome": "ZOCCALON",
+        "nome": "ANTONIA",
+        "crm": "000674",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000509",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "RUGGIERO",
+        "nome": "EDDA",
+        "crm": "000595",
+        "distretto": 0
+      },
+      {
+        "cognome": "FALCOMER",
+        "nome": "GIANNA",
+        "crm": "000834",
+        "distretto": 0
+      },
+      {
+        "cognome": "SONCIN",
+        "nome": "ALESSIA",
+        "crm": "000598",
+        "distretto": 0
+      },
+      {
+        "cognome": "BASALDELLA",
+        "nome": "CECILIA",
+        "crm": "000606",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE FILIPPIS",
+        "nome": "SANDRO",
+        "crm": "000597",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000669",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "DE ZORZI",
+        "nome": "BERNARDINA",
+        "crm": "000384",
+        "distretto": 0
+      },
+      {
+        "cognome": "RUMINEL",
+        "nome": "SANDRO",
+        "crm": "000309",
+        "distretto": 0
+      },
+      {
+        "cognome": "GENOVA",
+        "nome": "CRISTINA",
+        "crm": "001158",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000506",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "BARTOLINI",
+        "nome": "MARGARET",
+        "crm": "000888",
+        "distretto": 0
+      },
+      {
+        "cognome": "JESTER",
+        "nome": "WANDA",
+        "crm": "000978",
+        "distretto": 0
+      },
+      {
+        "cognome": "CULIN",
+        "nome": "MARTA MARIA",
+        "crm": "001020",
+        "distretto": 0
+      },
+      {
+        "cognome": "BIDOLI",
+        "nome": "ELIA",
+        "crm": "000947",
+        "distretto": 0
+      },
+      {
+        "cognome": "MICCHELLETTO",
+        "nome": "PATRIZIO",
+        "crm": "001076",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000668",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "MENEGOTTO",
+        "nome": "GRAZIELLA",
+        "crm": "000125",
+        "distretto": 0
+      },
+      {
+        "cognome": "RENEGAZ",
+        "nome": "ANNINA",
+        "crm": "000817",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROSA",
+        "nome": "SANDRO",
+        "crm": "000761",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000667",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "CUZZOLIN",
+        "nome": "RINO",
+        "crm": "000117",
+        "distretto": 0
+      },
+      {
+        "cognome": "COVASSIN",
+        "nome": "FATMA NESRIN",
+        "crm": "000450",
+        "distretto": 0
+      },
+      {
+        "cognome": "COVASSIN",
+        "nome": "MARCELLA",
+        "crm": "000453",
+        "distretto": 0
+      },
+      {
+        "cognome": "BORSOI",
+        "nome": "JANICE",
+        "crm": "000386",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000666",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "CIRIATTI",
+        "nome": "PIERA",
+        "crm": "001143",
+        "distretto": 0
+      },
+      {
+        "cognome": "BRIGIDA",
+        "nome": "MARIA ROSA",
+        "crm": "000803",
+        "distretto": 0
+      },
+      {
+        "cognome": "GAIATTO",
+        "nome": "ALEX",
+        "crm": "001153",
+        "distretto": 0
+      },
+      {
+        "cognome": "NOSELLA",
+        "nome": "MARIA-CELESTE",
+        "crm": "001155",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000665",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "LUPPI",
+        "nome": "SANDRO",
+        "crm": "000984",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE FAVERI",
+        "nome": "ALEX",
+        "crm": "001068",
+        "distretto": 0
+      },
+      {
+        "cognome": "MORAS",
+        "nome": "MERY FOGAR",
+        "crm": "001061",
+        "distretto": 0
+      },
+      {
+        "cognome": "DYDYK",
+        "nome": "CESIDIO",
+        "crm": "001058",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE NARDI",
+        "nome": "DANILLA",
+        "crm": "000750",
+        "distretto": 0
+      },
+      {
+        "cognome": "FANTUZ",
+        "nome": "ERMINIA",
+        "crm": "000931",
+        "distretto": 0
+      },
+      {
+        "cognome": "PIOVESAN",
+        "nome": "ANGELINA",
+        "crm": "000993",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000309",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "DE BORTOLI",
+        "nome": "MARIO GIORGIO",
+        "crm": "000893",
+        "distretto": 0
+      },
+      {
+        "cognome": "LAURICELLI",
+        "nome": "ONELIA",
+        "crm": "000878",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000664",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "PETOEL",
+        "nome": "ELSA",
+        "crm": "001056",
+        "distretto": 0
+      },
+      {
+        "cognome": "BERGAMI",
+        "nome": "ORSALA",
+        "crm": "001034",
+        "distretto": 0
+      },
+      {
+        "cognome": "MANTELLA",
+        "nome": "ANTONIA",
+        "crm": "000340",
+        "distretto": 0
+      },
+      {
+        "cognome": "MIO BERTOLO",
+        "nome": "ORNELLA",
+        "crm": "001197",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROVER",
+        "nome": "BASILIO",
+        "crm": "001185",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROMANELLO",
+        "nome": "LUCIANO",
+        "crm": "000489",
+        "distretto": 0
+      },
+      {
+        "cognome": "LOLLO",
+        "nome": "STEFANO",
+        "crm": "001038",
+        "distretto": 0
+      },
+      {
+        "cognome": "JERVIS",
+        "nome": "JOLANDA",
+        "crm": "000951",
+        "distretto": 0
+      },
+      {
+        "cognome": "PARRO",
+        "nome": "VALLAN SANTE",
+        "crm": "000563",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000663",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "PIVETTA",
+        "nome": "VITTORIO",
+        "crm": "000666",
+        "distretto": 0
+      },
+      {
+        "cognome": "PANUNZIO",
+        "nome": "ROSA",
+        "crm": "000976",
+        "distretto": 0
+      },
+      {
+        "cognome": "MARTINELLO",
+        "nome": "MAFALDA",
+        "crm": "001014",
+        "distretto": 0
+      },
+      {
+        "cognome": "DEL PIERO",
+        "nome": "ANNINA",
+        "crm": "000943",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000308",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "BRAGADOI",
+        "nome": "MAFALDA",
+        "crm": "000316",
+        "distretto": 0
+      },
+      {
+        "cognome": "BRUNETTA",
+        "nome": "CANDIDA",
+        "crm": "000784",
+        "distretto": 0
+      },
+      {
+        "cognome": "CELUSSI",
+        "nome": "CESARINA",
+        "crm": "000401",
+        "distretto": 0
+      },
+      {
+        "cognome": "FANNA",
+        "nome": "GENNARO",
+        "crm": "000720",
+        "distretto": 0
+      },
+      {
+        "cognome": "BORDEGNONI",
+        "nome": "FRANCESCA",
+        "crm": "000802",
+        "distretto": 0
+      },
+      {
+        "cognome": "CIFRODELLI",
+        "nome": "CESARE",
+        "crm": "000393",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000662",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "VIBRANTE",
+        "nome": "GIOVANNI",
+        "crm": "000730",
+        "distretto": 0
+      },
+      {
+        "cognome": "MARCUZZO",
+        "nome": "GUERRINO",
+        "crm": "001065",
+        "distretto": 0
+      },
+      {
+        "cognome": "BIASOLI",
+        "nome": "ORSOLA",
+        "crm": "000941",
+        "distretto": 0
+      },
+      {
+        "cognome": "NICOLELLA",
+        "nome": "ANNINA",
+        "crm": "001044",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000661",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "GALLINA",
+        "nome": "GIANNINO",
+        "crm": "000160",
+        "distretto": 0
+      },
+      {
+        "cognome": "MANTELLO",
+        "nome": "ALESSIA",
+        "crm": "001092",
+        "distretto": 0
+      },
+      {
+        "cognome": "MARIUZZO",
+        "nome": "P CARLA",
+        "crm": "001090",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROMANEK",
+        "nome": "MARSILE ANGELO",
+        "crm": "001104",
+        "distretto": 0
+      },
+      {
+        "cognome": "OTTOBONI",
+        "nome": "DARIO",
+        "crm": "001093",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000660",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "GATEL",
+        "nome": "JOSIP",
+        "crm": "001049",
+        "distretto": 0
+      },
+      {
+        "cognome": "BERTO",
+        "nome": "MAFALDA",
+        "crm": "000749",
+        "distretto": 0
+      },
+      {
+        "cognome": "AMBROSIN",
+        "nome": "STEFANO",
+        "crm": "000228",
+        "distretto": 0
+      },
+      {
+        "cognome": "DELLA GIUSTINA",
+        "nome": "MARTA MARIA",
+        "crm": "000221",
+        "distretto": 0
+      },
+      {
+        "cognome": "CALDIROLI",
+        "nome": "DANILLA",
+        "crm": "000286",
+        "distretto": 0
+      },
+      {
+        "cognome": "SAINT",
+        "nome": "BERR GUIDO",
+        "crm": "000933",
+        "distretto": 0
+      },
+      {
+        "cognome": "PORRACIN",
+        "nome": "GIANFRANCO",
+        "crm": "001077",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000466",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "MASSAROTTO",
+        "nome": "ALFREDO",
+        "crm": "000558",
+        "distretto": 0
+      },
+      {
+        "cognome": "GRANZOTTO",
+        "nome": "IOLANDA",
+        "crm": "000920",
+        "distretto": 0
+      },
+      {
+        "cognome": "FABBRIS",
+        "nome": "ORSOLA",
+        "crm": "000318",
+        "distretto": 0
+      },
+      {
+        "cognome": "COLLINS",
+        "nome": "MAURO",
+        "crm": "001171",
+        "distretto": 0
+      },
+      {
+        "cognome": "BARBETT",
+        "nome": "ANNINA",
+        "crm": "001172",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000460",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "ANTONIOLLI",
+        "nome": "LICIA",
+        "crm": "000377",
+        "distretto": 0
+      },
+      {
+        "cognome": "LAMBRECQUE",
+        "nome": "CARLA TERESA",
+        "crm": "000400",
+        "distretto": 0
+      },
+      {
+        "cognome": "MONTAGNER",
+        "nome": "TERESA",
+        "crm": "000262",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000260",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "GALLO",
+        "nome": "DANIELE ENEA",
+        "crm": "000265",
+        "distretto": 0
+      },
+      {
+        "cognome": "PICCIN",
+        "nome": "BERNARDINA",
+        "crm": "001007",
+        "distretto": 0
+      },
+      {
+        "cognome": "KUSHNERUK",
+        "nome": "ROSA",
+        "crm": "000257",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000659",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "DI PALMA",
+        "nome": "MARGHERITA",
+        "crm": "000945",
+        "distretto": 0
+      },
+      {
+        "cognome": "MAZZUCCO",
+        "nome": "PIA CRISTINA",
+        "crm": "000525",
+        "distretto": 0
+      },
+      {
+        "cognome": "EJGHITI",
+        "nome": "ANTONIETTA",
+        "crm": "001053",
+        "distretto": 0
+      },
+      {
+        "cognome": "PETRUCCO",
+        "nome": "GIOVANNI",
+        "crm": "000924",
+        "distretto": 0
+      },
+      {
+        "cognome": "BURDA",
+        "nome": "TERESA MARTA",
+        "crm": "001048",
+        "distretto": 0
+      },
+      {
+        "cognome": "CHIARAMONTE R",
+        "nome": "GUERRINO",
+        "crm": "000987",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000658",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "CELLOTTO",
+        "nome": "MARGARET",
+        "crm": "000650",
+        "distretto": 0
+      },
+      {
+        "cognome": "NACHOVEC",
+        "nome": "GIUSEPPA",
+        "crm": "000845",
+        "distretto": 0
+      },
+      {
+        "cognome": "POSSAMAI",
+        "nome": "BRENDA",
+        "crm": "000216",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000656",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "WIELAND",
+        "nome": "NELLO",
+        "crm": "000098",
+        "distretto": 0
+      },
+      {
+        "cognome": "MENEGOTTO",
+        "nome": "GENOVEFFA",
+        "crm": "001122",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000655",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "IRONE",
+        "nome": "ESTER",
+        "crm": "000970",
+        "distretto": 0
+      },
+      {
+        "cognome": "POLES",
+        "nome": "ELDA",
+        "crm": "000938",
+        "distretto": 0
+      },
+      {
+        "cognome": "VISINTIN",
+        "nome": "DIZIER RAIMONDA",
+        "crm": "001008",
+        "distretto": 0
+      },
+      {
+        "cognome": "DOIMO",
+        "nome": "UGO",
+        "crm": "000885",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000654",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "BURAN",
+        "nome": "EVITA",
+        "crm": "000949",
+        "distretto": 0
+      },
+      {
+        "cognome": "LUCINI",
+        "nome": "ALESSIA",
+        "crm": "001016",
+        "distretto": 0
+      },
+      {
+        "cognome": "PROSDOCIMO",
+        "nome": "ALEXANDRO",
+        "crm": "000925",
+        "distretto": 0
+      },
+      {
+        "cognome": "BORSATTI",
+        "nome": "MAFALDA",
+        "crm": "000964",
+        "distretto": 0
+      },
+      {
+        "cognome": "DEL DOTTO",
+        "nome": "GIANNI",
+        "crm": "001025",
+        "distretto": 0
+      },
+      {
+        "cognome": "ARRIGHINI",
+        "nome": "SUSY",
+        "crm": "001047",
+        "distretto": 0
+      },
+      {
+        "cognome": "D ALTERIO",
+        "nome": "CALDERARO LORENA",
+        "crm": "001051",
+        "distretto": 0
+      },
+      {
+        "cognome": "CANDERAN",
+        "nome": "EMMA",
+        "crm": "001041",
+        "distretto": 0
+      },
+      {
+        "cognome": "BORTOLIN",
+        "nome": "RINO",
+        "crm": "000980",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000653",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "PRGORARO",
+        "nome": "EVITA",
+        "crm": "000310",
+        "distretto": 0
+      },
+      {
+        "cognome": "VINCENZI",
+        "nome": "ERICA",
+        "crm": "001179",
+        "distretto": 0
+      },
+      {
+        "cognome": "DRIUSSO",
+        "nome": "DANILO",
+        "crm": "000504",
+        "distretto": 0
+      },
+      {
+        "cognome": "CAENELOS",
+        "nome": "MARK",
+        "crm": "000944",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000652",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "ZORZETTO",
+        "nome": "BASILIO",
+        "crm": "000668",
+        "distretto": 0
+      },
+      {
+        "cognome": "MARIUZZO",
+        "nome": "MARK",
+        "crm": "000093",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000459",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "DAL ZOTTO",
+        "nome": "LORENZA",
+        "crm": "000883",
+        "distretto": 0
+      },
+      {
+        "cognome": "SIGNORA",
+        "nome": "SILVIA",
+        "crm": "000830",
+        "distretto": 0
+      },
+      {
+        "cognome": "BERELLI",
+        "nome": "SUSY",
+        "crm": "000414",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000651",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "CIFRODELLI",
+        "nome": "MARIA ROSA",
+        "crm": "000714",
+        "distretto": 0
+      },
+      {
+        "cognome": "BRUNELLO",
+        "nome": "ELISA ANNA",
+        "crm": "000490",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000650",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "RONCHIATO",
+        "nome": "GILDA",
+        "crm": "000560",
+        "distretto": 0
+      },
+      {
+        "cognome": "COSMA",
+        "nome": "THOMAS",
+        "crm": "000561",
+        "distretto": 0
+      },
+      {
+        "cognome": "BATTISTON",
+        "nome": "ORSOLA",
+        "crm": "000284",
+        "distretto": 0
+      },
+      {
+        "cognome": "TENTARELLI",
+        "nome": "ROSA MARIA",
+        "crm": "000211",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000454",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "CHINELLATO",
+        "nome": "CALDERARO LORENA",
+        "crm": "000751",
+        "distretto": 0
+      },
+      {
+        "cognome": "MAZZORINI IN INFANTI",
+        "nome": "LIVIA",
+        "crm": "000983",
+        "distretto": 0
+      },
+      {
+        "cognome": "FIAMMEGO",
+        "nome": "SANDRO",
+        "crm": "001018",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000451",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "LORENZON",
+        "nome": "ANNUNZIATA",
+        "crm": "000427",
+        "distretto": 0
+      },
+      {
+        "cognome": "BEVIGNANI",
+        "nome": "ANNINA",
+        "crm": "000557",
+        "distretto": 0
+      },
+      {
+        "cognome": "BALLARIN",
+        "nome": "LICIA",
+        "crm": "000758",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000255",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "DAL NIN",
+        "nome": "ROSA MARIA",
+        "crm": "000368",
+        "distretto": 0
+      },
+      {
+        "cognome": "RENESTO",
+        "nome": "MAFALDA",
+        "crm": "001006",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000649",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "BUIATTI",
+        "nome": "MARIO GIORGIO",
+        "crm": "000501",
+        "distretto": 0
+      },
+      {
+        "cognome": "CECCATO",
+        "nome": "ALESSIA",
+        "crm": "000769",
+        "distretto": 0
+      },
+      {
+        "cognome": "NORIO",
+        "nome": "SECONDO",
+        "crm": "000902",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000648",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "BERLESE",
+        "nome": "ADI",
+        "crm": "000721",
+        "distretto": 0
+      },
+      {
+        "cognome": "GTARDENAL",
+        "nome": "BASILIO",
+        "crm": "000705",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000647",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "BELTRAMI",
+        "nome": "DORIS MARIA",
+        "crm": "001138",
+        "distretto": 0
+      },
+      {
+        "cognome": "GUEYE",
+        "nome": "CALDERARO LORENA",
+        "crm": "001096",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROVERA",
+        "nome": "MAFALDA",
+        "crm": "000712",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000646",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "GIUST",
+        "nome": "OLIVA",
+        "crm": "001059",
+        "distretto": 0
+      },
+      {
+        "cognome": "PADOIN",
+        "nome": "VICENZINA",
+        "crm": "001011",
+        "distretto": 0
+      },
+      {
+        "cognome": "GEONAZZO",
+        "nome": "CARLAMARIA",
+        "crm": "001030",
+        "distretto": 0
+      },
+      {
+        "cognome": "DELLA GASPARA",
+        "nome": "DANILLA",
+        "crm": "000677",
+        "distretto": 0
+      },
+      {
+        "cognome": "MILANO",
+        "nome": "CARLA",
+        "crm": "001028",
+        "distretto": 0
+      },
+      {
+        "cognome": "DI RAUSO",
+        "nome": "EDDI",
+        "crm": "001015",
+        "distretto": 0
+      },
+      {
+        "cognome": "DI STEFANO",
+        "nome": "FRANK",
+        "crm": "001178",
+        "distretto": 0
+      },
+      {
+        "cognome": "BOATENG",
+        "nome": "ANNA",
+        "crm": "000926",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000642",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "ARCANJO DE ALMEIDA",
+        "nome": "ANNINA",
+        "crm": "000855",
+        "distretto": 0
+      },
+      {
+        "cognome": "GIRALDO",
+        "nome": "ESTERINA",
+        "crm": "000856",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROSSI",
+        "nome": "ADA",
+        "crm": "001175",
+        "distretto": 0
+      },
+      {
+        "cognome": "BERTOLA",
+        "crm": "000374",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000448",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "MESCOLOTTO",
+        "nome": "PASQUALINA",
+        "crm": "001045",
+        "distretto": 0
+      },
+      {
+        "cognome": "IFEOMA",
+        "nome": "REYNALD",
+        "crm": "001084",
+        "distretto": 0
+      },
+      {
+        "cognome": "BERTOLO",
+        "nome": "BERNARDO",
+        "crm": "000974",
+        "distretto": 0
+      },
+      {
+        "cognome": "MAZZARIOL",
+        "nome": "MARGARET",
+        "crm": "001063",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000641",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "BISCONTIN",
+        "nome": "MARGARET",
+        "crm": "000089",
+        "distretto": 0
+      },
+      {
+        "cognome": "MIOR",
+        "nome": "ESTER",
+        "crm": "001078",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE LORENZI",
+        "nome": "MARGHERITA",
+        "crm": "000540",
+        "distretto": 0
+      },
+      {
+        "cognome": "LUCARDA",
+        "nome": "VALLAN SANTE",
+        "crm": "000719",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000640",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "GARCIA",
+        "nome": "ELDA",
+        "crm": "000663",
+        "distretto": 0
+      },
+      {
+        "cognome": "BARBON",
+        "nome": "SANDRO",
+        "crm": "000760",
+        "distretto": 0
+      },
+      {
+        "cognome": "BONVICINI",
+        "nome": "GIUDITTA",
+        "crm": "000448",
+        "distretto": 0
+      },
+      {
+        "cognome": "RANIERI",
+        "nome": "MARIA LUISA",
+        "crm": "000820",
+        "distretto": 0
+      },
+      {
+        "cognome": "PROVEDEL",
+        "nome": "CESARINA",
+        "crm": "000399",
+        "distretto": 0
+      },
+      {
+        "cognome": "CAMPORESE",
+        "nome": "ROSA MARIA",
+        "crm": "000762",
+        "distretto": 0
+      },
+      {
+        "cognome": "GABRIEL",
+        "nome": "CALDERARO LORENA",
+        "crm": "000704",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000446",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "CECILIOT",
+        "nome": "POS DAVY LUIGI",
+        "crm": "001146",
+        "distretto": 0
+      },
+      {
+        "cognome": "DELL ANESE",
+        "nome": "MICHELE",
+        "crm": "000825",
+        "distretto": 0
+      },
+      {
+        "cognome": "CECILIOT",
+        "nome": "EMILIO ERMES",
+        "crm": "001150",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000443",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "TOFFOLETTI",
+        "nome": "EVITA",
+        "crm": "000112",
+        "distretto": 0
+      },
+      {
+        "cognome": "GAETANI",
+        "nome": "CESARINA",
+        "crm": "000500",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000442",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "CILIA MINA",
+        "nome": "LUCIO",
+        "crm": "000896",
+        "distretto": 0
+      },
+      {
+        "cognome": "DAMIAN",
+        "nome": "AGNESE",
+        "crm": "000157",
+        "distretto": 0
+      },
+      {
+        "cognome": "IGNAZI",
+        "nome": "LUCIO",
+        "crm": "000086",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000440",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "CORRADINI",
+        "nome": "ALEXANDRO",
+        "crm": "000950",
+        "distretto": 0
+      },
+      {
+        "cognome": "PIANINA",
+        "nome": "RYCKY",
+        "crm": "000994",
+        "distretto": 0
+      },
+      {
+        "cognome": "FADEL",
+        "nome": "BRUNA",
+        "crm": "001017",
+        "distretto": 0
+      },
+      {
+        "cognome": "FAMELLOS",
+        "nome": "DANILLA",
+        "crm": "001082",
+        "distretto": 0
+      },
+      {
+        "cognome": "SPINA",
+        "nome": "ADI",
+        "crm": "000914",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000639",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "PAULETTO",
+        "nome": "ANNINA",
+        "crm": "000411",
+        "distretto": 0
+      },
+      {
+        "cognome": "GIULLIEM",
+        "nome": "IMELDE",
+        "crm": "000843",
+        "distretto": 0
+      },
+      {
+        "cognome": "PANZANI",
+        "nome": "PROSPERINA",
+        "crm": "000330",
+        "distretto": 0
+      },
+      {
+        "cognome": "LOPEL",
+        "nome": "DARIO",
+        "crm": "000765",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000637",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "DE VALLE",
+        "nome": "DANILO",
+        "crm": "000515",
+        "distretto": 0
+      },
+      {
+        "cognome": "TRANGONI",
+        "nome": "ADA",
+        "crm": "000088",
+        "distretto": 0
+      },
+      {
+        "cognome": "SPADETTO",
+        "nome": "JOLANDA",
+        "crm": "000092",
+        "distretto": 0
+      },
+      {
+        "cognome": "MARSON",
+        "nome": "SERGEJ",
+        "crm": "000506",
+        "distretto": 0
+      },
+      {
+        "cognome": "D\u0027ODORICO",
+        "nome": "MARIA ROSALIA",
+        "crm": "001111",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000635",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "BALLARDINI",
+        "nome": "MARGARET",
+        "crm": "000814",
+        "distretto": 0
+      },
+      {
+        "cognome": "GALLETTI",
+        "nome": "PROSPERINA",
+        "crm": "001140",
+        "distretto": 0
+      },
+      {
+        "cognome": "CELLE",
+        "nome": "DEIANIRA",
+        "crm": "000824",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000634",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "CORROCHER",
+        "nome": "GIULIANO",
+        "crm": "000776",
+        "distretto": 0
+      },
+      {
+        "cognome": "FILIPPI",
+        "nome": "VALERIA",
+        "crm": "000804",
+        "distretto": 0
+      },
+      {
+        "cognome": "BOTTEGA",
+        "nome": "ORSALA",
+        "crm": "000623",
+        "distretto": 0
+      },
+      {
+        "cognome": "MUCILLO",
+        "nome": "PASQUALINA",
+        "crm": "000640",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000633",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "SONZIN",
+        "nome": "PIA CRISTINA",
+        "crm": "001036",
+        "distretto": 0
+      },
+      {
+        "cognome": "GARBELLOTTO",
+        "nome": "ROSANNA",
+        "crm": "000955",
+        "distretto": 0
+      },
+      {
+        "cognome": "LURGO",
+        "nome": "DANIELE ENEA",
+        "crm": "001074",
+        "distretto": 0
+      },
+      {
+        "cognome": "OSHCHYPUK",
+        "nome": "CESARINA",
+        "crm": "000936",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000632",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "BUFFO",
+        "nome": "IOLE ANNA",
+        "crm": "000120",
+        "distretto": 0
+      },
+      {
+        "cognome": "DENG",
+        "nome": "ANTONIA",
+        "crm": "000476",
+        "distretto": 0
+      },
+      {
+        "cognome": "BOLLOR",
+        "nome": "ANNINA",
+        "crm": "000508",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000437",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "BARZI",
+        "nome": "ALEXANDRO",
+        "crm": "000604",
+        "distretto": 0
+      },
+      {
+        "cognome": "LEOCI",
+        "crm": "000254",
+        "distretto": 0
+      },
+      {
+        "cognome": "VISOTTO",
+        "nome": "ANNINA",
+        "crm": "000767",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000598",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "FOGLIA",
+        "nome": "GIUSEPPE",
+        "crm": "000410",
+        "distretto": 0
+      },
+      {
+        "cognome": "DAVEMPORT",
+        "nome": "FELICE",
+        "crm": "000827",
+        "distretto": 0
+      },
+      {
+        "cognome": "MOCELLIN",
+        "nome": "UGO",
+        "crm": "000256",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE MARTIN",
+        "nome": "SUSY",
+        "crm": "000771",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000597",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "ZARAMELLA",
+        "nome": "ELIA",
+        "crm": "000863",
+        "distretto": 0
+      },
+      {
+        "cognome": "DEL GIUDICE",
+        "nome": "ROSANNA",
+        "crm": "000482",
+        "distretto": 0
+      },
+      {
+        "cognome": "FABRIS",
+        "nome": "DORIS MARIA",
+        "crm": "000526",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000596",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "NOTA",
+        "nome": "CALDERARO LORENA",
+        "crm": "000518",
+        "distretto": 0
+      },
+      {
+        "cognome": "CAMPONOGARA",
+        "nome": "ORESTE",
+        "crm": "001009",
+        "distretto": 0
+      },
+      {
+        "cognome": "MOMOLI",
+        "nome": "ORIELLA",
+        "crm": "000234",
+        "distretto": 0
+      },
+      {
+        "cognome": "FAURE",
+        "nome": "UGO",
+        "crm": "000821",
+        "distretto": 0
+      },
+      {
+        "cognome": "FARNON",
+        "nome": "EMRICA",
+        "crm": "000219",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000595",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "PONZIANO",
+        "nome": "ENRICO",
+        "crm": "000593",
+        "distretto": 0
+      },
+      {
+        "cognome": "MOLINO",
+        "nome": "DANILO",
+        "crm": "000627",
+        "distretto": 0
+      },
+      {
+        "cognome": "MONEGATO",
+        "nome": "MARTA MARIA",
+        "crm": "000615",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000594",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "DE CHIARA",
+        "nome": "LEDA",
+        "crm": "000282",
+        "distretto": 0
+      },
+      {
+        "cognome": "TENTARELLI",
+        "nome": "MARIA ROSA",
+        "crm": "001208",
+        "distretto": 0
+      },
+      {
+        "cognome": "TENTARELLI",
+        "nome": "LEDA",
+        "crm": "000905",
+        "distretto": 0
+      },
+      {
+        "cognome": "NARDIN",
+        "nome": "FATMA NESRIN",
+        "crm": "000772",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000593",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "KREUTHER",
+        "nome": "GIULIANA",
+        "crm": "000711",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROS",
+        "nome": "CELESTE",
+        "crm": "000364",
+        "distretto": 0
+      },
+      {
+        "cognome": "VALONGO",
+        "nome": "GIANNINO",
+        "crm": "000699",
+        "distretto": 0
+      },
+      {
+        "cognome": "TOMASI",
+        "nome": "BERR GUIDO",
+        "crm": "000873",
+        "distretto": 0
+      },
+      {
+        "cognome": "PEATEROTTI",
+        "nome": "ALFREDO",
+        "crm": "000900",
+        "distretto": 0
+      },
+      {
+        "cognome": "ZANUS",
+        "nome": "VITTORIO",
+        "crm": "000647",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000237",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "MIKNEVICIENE",
+        "nome": "MARIA LUCIA",
+        "crm": "000575",
+        "distretto": 0
+      },
+      {
+        "cognome": "BAJRAMI",
+        "nome": "EMMA",
+        "crm": "000811",
+        "distretto": 0
+      },
+      {
+        "cognome": "GABRIEL",
+        "nome": "MARIA LUCIA",
+        "crm": "000686",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000399",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "BERNARDI",
+        "nome": "ALFREDO",
+        "crm": "000602",
+        "distretto": 0
+      },
+      {
+        "cognome": "FANTINATO",
+        "nome": "MARILYN",
+        "crm": "000684",
+        "distretto": 0
+      },
+      {
+        "cognome": "ZANATTA",
+        "nome": "DIZIER RAIMONDA",
+        "crm": "000605",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000592",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "TADDEI",
+        "nome": "NORMA",
+        "crm": "000549",
+        "distretto": 0
+      },
+      {
+        "cognome": "MOCELLIN",
+        "nome": "MARISA",
+        "crm": "000554",
+        "distretto": 0
+      },
+      {
+        "cognome": "BIANCHET",
+        "nome": "ORSALA",
+        "crm": "000552",
+        "distretto": 0
+      },
+      {
+        "cognome": "PEDRON",
+        "nome": "ALFREDO",
+        "crm": "000702",
+        "distretto": 0
+      },
+      {
+        "cognome": "RONCHIATO",
+        "nome": "NAZZARENA",
+        "crm": "000553",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000591",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "CALABRESE",
+        "nome": "VITTORIO",
+        "crm": "000635",
+        "distretto": 0
+      },
+      {
+        "cognome": "FARINA",
+        "nome": "MARGARET",
+        "crm": "000854",
+        "distretto": 0
+      },
+      {
+        "cognome": "BERELLI",
+        "nome": "VINCENZO",
+        "crm": "000832",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000397",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "FIORIN",
+        "nome": "DARIO",
+        "crm": "000807",
+        "distretto": 0
+      },
+      {
+        "cognome": "MESSUTI",
+        "nome": "FORTUNATA",
+        "crm": "000884",
+        "distretto": 0
+      },
+      {
+        "cognome": "DASSIE",
+        "nome": "LICIA",
+        "crm": "001163",
+        "distretto": 0
+      },
+      {
+        "cognome": "TOSATO",
+        "nome": "ALEX",
+        "crm": "001166",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000590",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "CARUSO",
+        "nome": "NICOLETTA",
+        "crm": "000434",
+        "distretto": 0
+      },
+      {
+        "cognome": "METOZZI",
+        "nome": "LUIGI",
+        "crm": "000509",
+        "distretto": 0
+      },
+      {
+        "cognome": "BERTOLINI",
+        "nome": "UGO",
+        "crm": "000857",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000039",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "DI CARLO",
+        "nome": "GIOVANNI PIO",
+        "crm": "000698",
+        "distretto": 0
+      },
+      {
+        "cognome": "KING",
+        "nome": "MAFALDA",
+        "crm": "000317",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000390",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "DI PIAZZA",
+        "nome": "VALLAN SANTE",
+        "crm": "000217",
+        "distretto": 0
+      },
+      {
+        "cognome": "EL DALGAMOUNY",
+        "nome": "MARIA LUCIA",
+        "crm": "000718",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000191",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "NOVELLO",
+        "nome": "IRMA",
+        "crm": "000380",
+        "distretto": 0
+      },
+      {
+        "cognome": "OTTOBONI",
+        "nome": "ALFREDO",
+        "crm": "000096",
+        "distretto": 0
+      },
+      {
+        "cognome": "NOSELLA",
+        "nome": "JEFFREY",
+        "crm": "000158",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000629",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "SCHIFF",
+        "nome": "ANNINA",
+        "crm": "000001",
+        "distretto": 0
+      },
+      {
+        "cognome": "VIGNANDUZZI",
+        "nome": "TIZIANA",
+        "crm": "001195",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000628",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "BERNARDINIS",
+        "nome": "ANNINA",
+        "crm": "000372",
+        "distretto": 0
+      },
+      {
+        "cognome": "FOSSELLI",
+        "nome": "ALEXANDRO",
+        "crm": "000918",
+        "distretto": 0
+      },
+      {
+        "cognome": "TOUGLO",
+        "nome": "ANTONIETTA",
+        "crm": "000243",
+        "distretto": 0
+      },
+      {
+        "cognome": "BRANDOLESE",
+        "nome": "ANTONIA",
+        "crm": "000465",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000627",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "ANGILECCHIA",
+        "nome": "ZUMILDA",
+        "crm": "000551",
+        "distretto": 0
+      },
+      {
+        "cognome": "POSTINA",
+        "nome": "SUSY",
+        "crm": "000528",
+        "distretto": 0
+      },
+      {
+        "cognome": "GALOFARO",
+        "nome": "CARLAMARIA",
+        "crm": "000798",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000626",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "FARAON",
+        "nome": "MARGHERITA",
+        "crm": "000315",
+        "distretto": 0
+      },
+      {
+        "cognome": "TOME\u0027",
+        "nome": "ESTER",
+        "crm": "000382",
+        "distretto": 0
+      },
+      {
+        "cognome": "MARGARITA",
+        "nome": "WANDA",
+        "crm": "000327",
+        "distretto": 0
+      },
+      {
+        "cognome": "CONTI",
+        "nome": "FABIO",
+        "crm": "000848",
+        "distretto": 0
+      },
+      {
+        "cognome": "FELTRACCO",
+        "nome": "LORENZO",
+        "crm": "000378",
+        "distretto": 0
+      },
+      {
+        "cognome": "POLETTI",
+        "nome": "ANNINA",
+        "crm": "000383",
+        "distretto": 0
+      },
+      {
+        "cognome": "FUSARI",
+        "nome": "ERICA",
+        "crm": "000774",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000625",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "PASINI",
+        "nome": "GERMANO",
+        "crm": "000831",
+        "distretto": 0
+      },
+      {
+        "cognome": "FELTRIN",
+        "nome": "DARIO",
+        "crm": "000792",
+        "distretto": 0
+      },
+      {
+        "cognome": "DARDENGO",
+        "nome": "JOLANDA",
+        "crm": "000915",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000623",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "CAPRA",
+        "nome": "ADI",
+        "crm": "000119",
+        "distretto": 0
+      },
+      {
+        "cognome": "PEIRETTI",
+        "nome": "GIOVANNI",
+        "crm": "000403",
+        "distretto": 0
+      },
+      {
+        "cognome": "MORASSI",
+        "nome": "FABIO",
+        "crm": "000113",
+        "distretto": 0
+      },
+      {
+        "cognome": "TAVAN",
+        "nome": "OAKLY",
+        "crm": "000452",
+        "distretto": 0
+      },
+      {
+        "cognome": "GIGOLOT",
+        "nome": "PAOLO",
+        "crm": "000678",
+        "distretto": 0
+      },
+      {
+        "cognome": "CERANTE",
+        "nome": "MARGHERITA",
+        "crm": "000218",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000622",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "MODANUTTI",
+        "nome": "CECILIA",
+        "crm": "000805",
+        "distretto": 0
+      },
+      {
+        "cognome": "SANSON",
+        "nome": "KARIN",
+        "crm": "000904",
+        "distretto": 0
+      },
+      {
+        "cognome": "DAVEMPORT",
+        "nome": "MARGARET",
+        "crm": "000671",
+        "distretto": 0
+      },
+      {
+        "cognome": "BELLAVERA",
+        "nome": "LORENZO",
+        "crm": "000783",
+        "distretto": 0
+      },
+      {
+        "cognome": "FURLAN",
+        "nome": "STEFANO",
+        "crm": "000633",
+        "distretto": 0
+      },
+      {
+        "cognome": "JHONSON",
+        "nome": "JANICE",
+        "crm": "001211",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000620",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "CEOLIN",
+        "nome": "AGNESE",
+        "crm": "000967",
+        "distretto": 0
+      },
+      {
+        "cognome": "ZARDO",
+        "nome": "ROSA MARIA",
+        "crm": "000965",
+        "distretto": 0
+      },
+      {
+        "cognome": "MOZZI",
+        "nome": "ALVISE",
+        "crm": "000992",
+        "distretto": 0
+      },
+      {
+        "nome": "ANNINA",
+        "crm": "001129",
+        "distretto": 0
+      },
+      {
+        "cognome": "SARRI",
+        "nome": "ANNINA",
+        "crm": "001073",
+        "distretto": 0
+      },
+      {
+        "cognome": "MEGLI",
+        "nome": "EVA",
+        "crm": "000241",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000426",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "BORSATO",
+        "nome": "PAVILIO",
+        "crm": "001112",
+        "distretto": 0
+      },
+      {
+        "cognome": "LENA",
+        "nome": "ORSOLINA",
+        "crm": "001131",
+        "distretto": 0
+      },
+      {
+        "cognome": "VAUGHN",
+        "nome": "MARIA-CELESTE",
+        "crm": "001113",
+        "distretto": 0
+      },
+      {
+        "cognome": "MOMI",
+        "nome": "ELDA",
+        "crm": "001119",
+        "distretto": 0
+      },
+      {
+        "cognome": "SCODELLER",
+        "nome": "SALLY",
+        "crm": "001152",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000588",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "DAICAR",
+        "nome": "MAFALDA",
+        "crm": "001149",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROMANEK",
+        "nome": "FLORA",
+        "crm": "000107",
+        "distretto": 0
+      },
+      {
+        "cognome": "MARCUZZO",
+        "nome": "IOLANDA",
+        "crm": "000390",
+        "distretto": 0
+      },
+      {
+        "cognome": "CERESATTO",
+        "nome": "GIULIA",
+        "crm": "000519",
+        "distretto": 0
+      },
+      {
+        "cognome": "CERANTE",
+        "nome": "CESARINA",
+        "crm": "000443",
+        "distretto": 0
+      },
+      {
+        "cognome": "CICUTIN",
+        "nome": "MARGARET",
+        "crm": "000656",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000421",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "CHIVILO",
+        "nome": "CECILIA",
+        "crm": "000641",
+        "distretto": 0
+      },
+      {
+        "cognome": "PETUZZI",
+        "nome": "ESTERINA",
+        "crm": "000616",
+        "distretto": 0
+      },
+      {
+        "cognome": "RUI",
+        "nome": "MAFALDA",
+        "crm": "000628",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000582",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "INNOCENTE",
+        "nome": "MAFALDA",
+        "crm": "000003",
+        "distretto": 0
+      },
+      {
+        "cognome": "NOSELLA",
+        "nome": "ADI",
+        "crm": "000422",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE BIANCHI",
+        "nome": "ALEXANDRO",
+        "crm": "000859",
+        "distretto": 0
+      },
+      {
+        "cognome": "GHERLANDA",
+        "nome": "ELVIRA",
+        "crm": "000842",
+        "distretto": 0
+      },
+      {
+        "cognome": "ADOMAKO",
+        "nome": "CANDIDA",
+        "crm": "000828",
+        "distretto": 0
+      },
+      {
+        "cognome": "CONTINI",
+        "nome": "LEONIDE",
+        "crm": "000667",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000581",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "CASTELLAN",
+        "nome": "MARK",
+        "crm": "000890",
+        "distretto": 0
+      },
+      {
+        "cognome": "MORELLATO",
+        "nome": "CRISTINA",
+        "crm": "000609",
+        "distretto": 0
+      },
+      {
+        "cognome": "PROVOLO",
+        "nome": "GENOVEFFA",
+        "crm": "000261",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000388",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "CASTAGNOLA",
+        "nome": "ALFREDO",
+        "crm": "000910",
+        "distretto": 0
+      },
+      {
+        "cognome": "VERTESI",
+        "nome": "EDI",
+        "crm": "001196",
+        "distretto": 0
+      },
+      {
+        "cognome": "BARBUIO",
+        "nome": "UGO",
+        "crm": "000806",
+        "distretto": 0
+      },
+      {
+        "cognome": "MASULLO",
+        "nome": "CESARINA",
+        "crm": "000622",
+        "distretto": 0
+      },
+      {
+        "cognome": "FANTINATO",
+        "nome": "GENOVEFFA",
+        "crm": "000683",
+        "distretto": 0
+      },
+      {
+        "cognome": "D ANTONA",
+        "nome": "ANNINA",
+        "crm": "000916",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000580",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "DAI PRA",
+        "nome": "IOLANDA",
+        "crm": "000306",
+        "distretto": 0
+      },
+      {
+        "cognome": "TAURICO",
+        "nome": "UGO",
+        "crm": "000381",
+        "distretto": 0
+      },
+      {
+        "cognome": "D ANGELO",
+        "nome": "GIOVANNI",
+        "crm": "000418",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000223",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "ALZETTA",
+        "nome": "BERR GUIDO",
+        "crm": "001066",
+        "distretto": 0
+      },
+      {
+        "cognome": "LENARDUZZI",
+        "nome": "FRANCESCA",
+        "crm": "001207",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000382",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "PIU",
+        "crm": "000485",
+        "distretto": 0
+      },
+      {
+        "cognome": "BELLI",
+        "nome": "ESTERINA",
+        "crm": "000355",
+        "distretto": 0
+      },
+      {
+        "cognome": "PERSELLO",
+        "nome": "EMANUELE",
+        "crm": "000484",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000187",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "POLESELLO",
+        "nome": "RINO",
+        "crm": "000568",
+        "distretto": 0
+      },
+      {
+        "cognome": "GIRETTI",
+        "nome": "MARILYN",
+        "crm": "000897",
+        "distretto": 0
+      },
+      {
+        "cognome": "VARNIER",
+        "nome": "ECILIA",
+        "crm": "000607",
+        "distretto": 0
+      },
+      {
+        "cognome": "VANNI",
+        "nome": "VANESSA",
+        "crm": "000564",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000618",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "WIELAND",
+        "nome": "ALEXANDRO",
+        "crm": "000764",
+        "distretto": 0
+      },
+      {
+        "cognome": "BIANCO",
+        "nome": "ESTER",
+        "crm": "000759",
+        "distretto": 0
+      },
+      {
+        "cognome": "DEL BIANCO",
+        "nome": "TARCISIA",
+        "crm": "000233",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000616",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "MANARDO",
+        "nome": "ALFREDO",
+        "crm": "000722",
+        "distretto": 0
+      },
+      {
+        "cognome": "BASSETTI",
+        "nome": "LEDA",
+        "crm": "000335",
+        "distretto": 0
+      },
+      {
+        "cognome": "VALENTI",
+        "nome": "BASILIO",
+        "crm": "000636",
+        "distretto": 0
+      },
+      {
+        "cognome": "GALLIUSSI",
+        "nome": "DARIO",
+        "crm": "000502",
+        "distretto": 0
+      },
+      {
+        "cognome": "GANDIN",
+        "nome": "MAFALDA",
+        "crm": "000505",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000615",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "PETRIS",
+        "nome": "JANICE",
+        "crm": "000370",
+        "distretto": 0
+      },
+      {
+        "cognome": "LAGNI",
+        "nome": "CONSILIA",
+        "crm": "001159",
+        "distretto": 0
+      },
+      {
+        "cognome": "BBARAZZUOL",
+        "nome": "MAFALDA",
+        "crm": "000339",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000613",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "DE BIASIO",
+        "nome": "MARIA ROSALIA",
+        "crm": "000706",
+        "distretto": 0
+      },
+      {
+        "cognome": "JHONSON",
+        "nome": "FABIO",
+        "crm": "000594",
+        "distretto": 0
+      },
+      {
+        "cognome": "CANTON",
+        "nome": "MICHELE",
+        "crm": "000559",
+        "distretto": 0
+      },
+      {
+        "cognome": "DEL RIZZO",
+        "nome": "NARCISO",
+        "crm": "000579",
+        "distretto": 0
+      },
+      {
+        "cognome": "TASSETTO",
+        "nome": "GENNARO",
+        "crm": "000592",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000612",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "TASSAN CASER",
+        "nome": "FLORINDO",
+        "crm": "000795",
+        "distretto": 0
+      },
+      {
+        "cognome": "STIVELLA",
+        "nome": "NATALIA",
+        "crm": "000539",
+        "distretto": 0
+      },
+      {
+        "cognome": "BLASARIN",
+        "nome": "GUERRINO",
+        "crm": "000337",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000418",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "LAKO",
+        "nome": "BENEDETTA",
+        "crm": "000100",
+        "distretto": 0
+      },
+      {
+        "cognome": "MAZZARO",
+        "nome": "VANIA",
+        "crm": "001089",
+        "distretto": 0
+      },
+      {
+        "cognome": "DOMENEGHETTI",
+        "nome": "ADI",
+        "crm": "001123",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000578",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "VETTOR",
+        "nome": "ALEX",
+        "crm": "000766",
+        "distretto": 0
+      },
+      {
+        "cognome": "LAMONTAGNE",
+        "nome": "GIUSEPPE",
+        "crm": "000818",
+        "distretto": 0
+      },
+      {
+        "cognome": "PULITO",
+        "nome": "DARIO",
+        "crm": "000892",
+        "distretto": 0
+      },
+      {
+        "cognome": "CAMOANATI",
+        "nome": "IDA",
+        "crm": "000578",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000577",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "LORENZINI",
+        "nome": "GIANFRANCO",
+        "crm": "000886",
+        "distretto": 0
+      },
+      {
+        "cognome": "BOREAN",
+        "nome": "SECONDO",
+        "crm": "000487",
+        "distretto": 0
+      },
+      {
+        "cognome": "GUSSO",
+        "nome": "RYCKY",
+        "crm": "000507",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000576",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "RUBELLIN",
+        "nome": "MARIA-CELESTE",
+        "crm": "000345",
+        "distretto": 0
+      },
+      {
+        "cognome": "MODOLO",
+        "nome": "CESARINA",
+        "crm": "000106",
+        "distretto": 0
+      },
+      {
+        "cognome": "ADAMS",
+        "nome": "CESARINA",
+        "crm": "000308",
+        "distretto": 0
+      },
+      {
+        "cognome": "CAMILOT",
+        "nome": "ANTONIA",
+        "crm": "000431",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000414",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "PANZANI",
+        "nome": "KERRY",
+        "crm": "000556",
+        "distretto": 0
+      },
+      {
+        "cognome": "ANZELINI",
+        "nome": "GIANNINO",
+        "crm": "000433",
+        "distretto": 0
+      },
+      {
+        "cognome": "CICUTTA",
+        "nome": "FRANK",
+        "crm": "000773",
+        "distretto": 0
+      },
+      {
+        "cognome": "FASSINA",
+        "nome": "EDI",
+        "crm": "000791",
+        "distretto": 0
+      },
+      {
+        "cognome": "BIDASSI",
+        "nome": "ERMENEGILDO",
+        "crm": "000608",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000575",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "WORKAM",
+        "nome": "NADIA",
+        "crm": "000451",
+        "distretto": 0
+      },
+      {
+        "cognome": "CAPRARO",
+        "nome": "BARRY",
+        "crm": "000850",
+        "distretto": 0
+      },
+      {
+        "cognome": "TODESCO",
+        "nome": "MAFALDA",
+        "crm": "000366",
+        "distretto": 0
+      },
+      {
+        "cognome": "DI NUNNO",
+        "nome": "ALVISE",
+        "crm": "001174",
+        "distretto": 0
+      },
+      {
+        "cognome": "MEIORIN",
+        "nome": "SECONDO",
+        "crm": "000548",
+        "distretto": 0
+      },
+      {
+        "cognome": "BOSIO",
+        "nome": "BARBARA",
+        "crm": "000517",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000573",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "SCOTTA\u0027",
+        "nome": "MINERVA",
+        "crm": "000503",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROMANIN",
+        "nome": "VITTORIO",
+        "crm": "000298",
+        "distretto": 0
+      },
+      {
+        "cognome": "GAIARDO",
+        "nome": "CANDIDO",
+        "crm": "000304",
+        "distretto": 0
+      },
+      {
+        "cognome": "DELL ACQUA",
+        "nome": "GIACOMO",
+        "crm": "001193",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000379",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "CURTOLO",
+        "nome": "MARGARET",
+        "crm": "000631",
+        "distretto": 0
+      },
+      {
+        "cognome": "CIRIATTI",
+        "nome": "BERNARDO",
+        "crm": "000146",
+        "distretto": 0
+      },
+      {
+        "cognome": "BETO",
+        "nome": "BERNARDINA",
+        "crm": "000934",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000572",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "SARTAREL",
+        "nome": "POS DAVY LUIGI",
+        "crm": "000336",
+        "distretto": 0
+      },
+      {
+        "cognome": "DAICAR",
+        "nome": "ANNINA",
+        "crm": "000152",
+        "distretto": 0
+      },
+      {
+        "cognome": "BETTACINI",
+        "nome": "SUSY",
+        "crm": "000151",
+        "distretto": 0
+      },
+      {
+        "cognome": "ZANUS",
+        "nome": "CONCETTA",
+        "crm": "000238",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000378",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "BISCONTIN",
+        "nome": "CESARINA",
+        "crm": "001086",
+        "distretto": 0
+      },
+      {
+        "cognome": "BONTEMPI",
+        "nome": "LIRI",
+        "crm": "000942",
+        "distretto": 0
+      },
+      {
+        "cognome": "SULAJ",
+        "nome": "CESIDIO",
+        "crm": "000726",
+        "distretto": 0
+      },
+      {
+        "cognome": "MOTTA",
+        "nome": "CALDERARO LORENA",
+        "crm": "001139",
+        "distretto": 0
+      },
+      {
+        "cognome": "BENEDUCE",
+        "nome": "PAOLO",
+        "crm": "001083",
+        "distretto": 0
+      },
+      {
+        "cognome": "OSALEN",
+        "nome": "POS DAVY LUIGI",
+        "crm": "000545",
+        "distretto": 0
+      },
+      {
+        "cognome": "PATTI",
+        "nome": "OWUSU",
+        "crm": "001069",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000570",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "BALDINI",
+        "nome": "DOMENICO",
+        "crm": "001099",
+        "distretto": 0
+      },
+      {
+        "cognome": "PORTELLO",
+        "nome": "BORSANA",
+        "crm": "001115",
+        "distretto": 0
+      },
+      {
+        "cognome": "MOMENTE",
+        "nome": "DILIA",
+        "crm": "001124",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000172",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "DAL PIETRO",
+        "nome": "CARLA TERESA",
+        "crm": "000413",
+        "distretto": 0
+      },
+      {
+        "cognome": "CENEDESE",
+        "nome": "JLENIA",
+        "crm": "000498",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000608",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "CHIELI",
+        "nome": "UGO",
+        "crm": "000356",
+        "distretto": 0
+      },
+      {
+        "cognome": "GAVASSO",
+        "nome": "CRISTINA",
+        "crm": "000753",
+        "distretto": 0
+      },
+      {
+        "cognome": "SALVADOR",
+        "nome": "MATTEO",
+        "crm": "000986",
+        "distretto": 0
+      },
+      {
+        "cognome": "NICOLINI",
+        "nome": "ALESSIA",
+        "crm": "000682",
+        "distretto": 0
+      },
+      {
+        "cognome": "CEOLIN",
+        "nome": "DANILLA",
+        "crm": "000968",
+        "distretto": 0
+      },
+      {
+        "cognome": "GAIOT",
+        "nome": "ESTERINA",
+        "crm": "001021",
+        "distretto": 0
+      },
+      {
+        "cognome": "VERZELLONI",
+        "nome": "EMILIO ERMES",
+        "crm": "000981",
+        "distretto": 0
+      },
+      {
+        "cognome": "VADRUCCI",
+        "nome": "ANNINA",
+        "crm": "001057",
+        "distretto": 0
+      },
+      {
+        "cognome": "BRAIDA",
+        "nome": "MARIA-CELESTE",
+        "crm": "000611",
+        "distretto": 0
+      },
+      {
+        "cognome": "PEZZUTTI",
+        "nome": "UMBERTO",
+        "crm": "000940",
+        "distretto": 0
+      },
+      {
+        "cognome": "SANTAROSSA",
+        "nome": "ANNA",
+        "crm": "000746",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000607",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "DAL BO",
+        "nome": "BRUSA ATTILIO",
+        "crm": "001192",
+        "distretto": 0
+      },
+      {
+        "cognome": "BELLOTTO",
+        "nome": "GIUSEPPE",
+        "crm": "000511",
+        "distretto": 0
+      },
+      {
+        "cognome": "DI FRANCO",
+        "nome": "DAVIDE",
+        "crm": "000417",
+        "distretto": 0
+      },
+      {
+        "cognome": "GAGNO",
+        "nome": "RYCKY",
+        "crm": "000689",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000606",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "TONON",
+        "nome": "GIUDITTA",
+        "crm": "000816",
+        "distretto": 0
+      },
+      {
+        "cognome": "DALLA BONA",
+        "nome": "TIZIANA",
+        "crm": "000790",
+        "distretto": 0
+      },
+      {
+        "cognome": "VESPINI",
+        "nome": "DARIO",
+        "crm": "000596",
+        "distretto": 0
+      },
+      {
+        "cognome": "GAIOTTO",
+        "nome": "DARIO",
+        "crm": "000819",
+        "distretto": 0
+      },
+      {
+        "cognome": "PIERRO",
+        "nome": "MICHELE",
+        "crm": "000913",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000605",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "BONAVENTURA",
+        "nome": "SECONDO",
+        "crm": "000643",
+        "distretto": 0
+      },
+      {
+        "cognome": "POLO",
+        "nome": "ALEXANDRO",
+        "crm": "000645",
+        "distretto": 0
+      },
+      {
+        "cognome": "LENARDON",
+        "nome": "MARIA PIA",
+        "crm": "000469",
+        "distretto": 0
+      },
+      {
+        "cognome": "MERCATE",
+        "nome": "EVELINA",
+        "crm": "001168",
+        "distretto": 0
+      },
+      {
+        "cognome": "LORENZON",
+        "nome": "MARTA MARIA",
+        "crm": "000147",
+        "distretto": 0
+      },
+      {
+        "cognome": "ZAMPARINI",
+        "nome": "DINO",
+        "crm": "000793",
+        "distretto": 0
+      },
+      {
+        "cognome": "MAROT",
+        "nome": "ONELIA",
+        "crm": "000473",
+        "distretto": 0
+      },
+      {
+        "cognome": "AKSIRAK",
+        "nome": "JANICE",
+        "crm": "000544",
+        "distretto": 0
+      },
+      {
+        "cognome": "BIASIZZI",
+        "nome": "LEDA",
+        "crm": "001167",
+        "distretto": 0
+      },
+      {
+        "cognome": "TETANO",
+        "nome": "SIMONE",
+        "crm": "000638",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000604",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "DISSEGNA",
+        "nome": "MARILYN",
+        "crm": "000492",
+        "distretto": 0
+      },
+      {
+        "cognome": "CASTELLANI",
+        "nome": "IOLANDA",
+        "crm": "000626",
+        "distretto": 0
+      },
+      {
+        "cognome": "ARPAIA",
+        "nome": "LEO SANTE",
+        "crm": "000456",
+        "distretto": 0
+      },
+      {
+        "cognome": "HUNTER",
+        "nome": "MICHIEI ANNA",
+        "crm": "000617",
+        "distretto": 0
+      },
+      {
+        "cognome": "TALARICO",
+        "nome": "IOLE ANNA",
+        "crm": "000612",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000603",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "MARONESE",
+        "nome": "MAFALDA",
+        "crm": "000379",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE PUPPO",
+        "nome": "GERMANO",
+        "crm": "000326",
+        "distretto": 0
+      },
+      {
+        "cognome": "PIVEROTTO",
+        "nome": "EDDA",
+        "crm": "000277",
+        "distretto": 0
+      },
+      {
+        "cognome": "BATTISTUZZI",
+        "nome": "MEAGAN",
+        "crm": "000408",
+        "distretto": 0
+      },
+      {
+        "cognome": "DAMIAN",
+        "nome": "CALDERARO LORENA",
+        "crm": "001154",
+        "distretto": 0
+      },
+      {
+        "cognome": "CARINO",
+        "nome": "POS DAVY LUIGI",
+        "crm": "000424",
+        "distretto": 0
+      },
+      {
+        "cognome": "MAIOTTI",
+        "nome": "CECILIA",
+        "crm": "000646",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000602",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "GARRIDO",
+        "nome": "TOMMASA",
+        "crm": "000090",
+        "distretto": 0
+      },
+      {
+        "cognome": "GRANDIN",
+        "nome": "CLAUDIA",
+        "crm": "000416",
+        "distretto": 0
+      },
+      {
+        "cognome": "FINARDI",
+        "nome": "ANNINA",
+        "crm": "000464",
+        "distretto": 0
+      },
+      {
+        "cognome": "GTARDENAL",
+        "nome": "ORSOLA",
+        "crm": "000536",
+        "distretto": 0
+      },
+      {
+        "cognome": "MICELLI",
+        "nome": "TOMMASA",
+        "crm": "000480",
+        "distretto": 0
+      },
+      {
+        "cognome": "SCHELLEMBERG",
+        "nome": "TERESA",
+        "crm": "001206",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000408",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "DALLA VILLA",
+        "nome": "ALEXANDRO",
+        "crm": "000614",
+        "distretto": 0
+      },
+      {
+        "cognome": "CROZZOLI",
+        "nome": "GIUDITTA",
+        "crm": "000555",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000601",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "ROSALEN",
+        "nome": "SUSY",
+        "crm": "000573",
+        "distretto": 0
+      },
+      {
+        "cognome": "CELANTI",
+        "nome": "IOLE ANNA",
+        "crm": "000566",
+        "distretto": 0
+      },
+      {
+        "cognome": "TASSINARI",
+        "nome": "BRUNA",
+        "crm": "000460",
+        "distretto": 0
+      },
+      {
+        "cognome": "RAITANO",
+        "nome": "CESARINA",
+        "crm": "000567",
+        "distretto": 0
+      },
+      {
+        "cognome": "PAROLIN",
+        "nome": "CLAUDIO",
+        "crm": "001182",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000569",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "FERNETICLE",
+        "nome": "ROSA MARIA",
+        "crm": "000435",
+        "distretto": 0
+      },
+      {
+        "cognome": "CAMPAGNOLO",
+        "nome": "ZUMILDA",
+        "crm": "000387",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000600",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "MATTIUSSI",
+        "nome": "BATTAINI ALESSAN",
+        "crm": "000486",
+        "distretto": 0
+      },
+      {
+        "cognome": "SARDO",
+        "nome": "BERNARDINA",
+        "crm": "000813",
+        "distretto": 0
+      },
+      {
+        "cognome": "PECCOLO",
+        "nome": "GIUDITTA",
+        "crm": "001135",
+        "distretto": 0
+      },
+      {
+        "cognome": "MAZZIER",
+        "nome": "SALVATORE",
+        "crm": "000725",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000567",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "SENEGALIA",
+        "nome": "FEDELE",
+        "crm": "000311",
+        "distretto": 0
+      },
+      {
+        "cognome": "PANESE",
+        "nome": "MARIA-CELESTE",
+        "crm": "000732",
+        "distretto": 0
+      },
+      {
+        "cognome": "BETTACINI",
+        "nome": "ADI",
+        "crm": "000587",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000565",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "ELMAZI",
+        "nome": "ROSA MARIA",
+        "crm": "000715",
+        "distretto": 0
+      },
+      {
+        "cognome": "RAFFO",
+        "nome": "FRANCIS",
+        "crm": "000659",
+        "distretto": 0
+      },
+      {
+        "cognome": "BIANCHETIN",
+        "nome": "MARIA LUCIA",
+        "crm": "000654",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000564",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "MAZZARO",
+        "nome": "ALFREDO",
+        "crm": "000164",
+        "distretto": 0
+      },
+      {
+        "cognome": "ZAMPARO",
+        "nome": "CALDERARO LORENA",
+        "crm": "000085",
+        "distretto": 0
+      },
+      {
+        "cognome": "MAZZARO",
+        "nome": "ALVISE",
+        "crm": "001126",
+        "distretto": 0
+      },
+      {
+        "cognome": "MAGNONI",
+        "nome": "BORSANA",
+        "crm": "000167",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000401",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "VALENTINI",
+        "nome": "VITTORIO",
+        "crm": "001186",
+        "distretto": 0
+      },
+      {
+        "cognome": "N.N.M2000055",
+        "nome": "ANNINA",
+        "crm": "000724",
+        "distretto": 0
+      },
+      {
+        "cognome": "PLATI",
+        "nome": "NERI",
+        "crm": "000899",
+        "distretto": 0
+      },
+      {
+        "cognome": "GUBULETTE",
+        "nome": "FILIPPO",
+        "crm": "000840",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000562",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "UMA",
+        "nome": "UMBERTO",
+        "crm": "000278",
+        "distretto": 0
+      },
+      {
+        "cognome": "MACCACARO",
+        "nome": "MAFALDA",
+        "crm": "000546",
+        "distretto": 0
+      },
+      {
+        "cognome": "CORBOLANTE",
+        "nome": "ALVISE",
+        "crm": "001198",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000164",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "GERARDO",
+        "nome": "GUERRINO",
+        "crm": "000351",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROLLO",
+        "nome": "MARGARET",
+        "crm": "000601",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000559",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "DE STEFANO",
+        "nome": "ORESTE",
+        "crm": "000537",
+        "distretto": 0
+      },
+      {
+        "cognome": "VALINCICH",
+        "nome": "STEFANO",
+        "crm": "000481",
+        "distretto": 0
+      },
+      {
+        "cognome": "ZUCCARATO",
+        "nome": "BERR GUIDO",
+        "crm": "000462",
+        "distretto": 0
+      },
+      {
+        "cognome": "CAVADINI",
+        "nome": "LELIA SANDRINA",
+        "crm": "000472",
+        "distretto": 0
+      },
+      {
+        "cognome": "FRANZ",
+        "crm": "000466",
+        "distretto": 0
+      },
+      {
+        "cognome": "GHIUZAN",
+        "nome": "CESARINA",
+        "crm": "000478",
+        "distretto": 0
+      },
+      {
+        "cognome": "MIKNEVICIENE",
+        "nome": "SUSY",
+        "crm": "000475",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000554",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "CIA",
+        "nome": "DILIA",
+        "crm": "000314",
+        "distretto": 0
+      },
+      {
+        "cognome": "ADEMI",
+        "nome": "EDDA",
+        "crm": "000236",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000359",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "POLITTA",
+        "nome": "GIUSEPPE",
+        "crm": "000794",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROMANO",
+        "nome": "CESARINA",
+        "crm": "001107",
+        "distretto": 0
+      },
+      {
+        "cognome": "DAL MAS",
+        "nome": "CESARINA",
+        "crm": "001199",
+        "distretto": 0
+      },
+      {
+        "cognome": "DE PIEVE",
+        "nome": "DEIANIRA",
+        "crm": "000939",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000551",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "GARRIDO",
+        "nome": "NICOLA",
+        "crm": "001087",
+        "distretto": 0
+      },
+      {
+        "cognome": "BROCCHETTA",
+        "nome": "CARLA TERESA",
+        "crm": "001022",
+        "distretto": 0
+      },
+      {
+        "cognome": "TRANGONI",
+        "nome": "EMANUELA",
+        "crm": "001085",
+        "distretto": 0
+      },
+      {
+        "cognome": "SIERRA",
+        "nome": "PRANDINA",
+        "crm": "000727",
+        "distretto": 0
+      },
+      {
+        "cognome": "RAVAGLINI",
+        "nome": "DIZIER RAIMONDA",
+        "crm": "000675",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000351",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "SEBASTIANI",
+        "nome": "CALDERARO LORENA",
+        "crm": "000523",
+        "distretto": 0
+      },
+      {
+        "cognome": "DOMINICI",
+        "nome": "INES ANNA",
+        "crm": "001108",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000549",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "BELTRAME",
+        "nome": "GENOVEFFA",
+        "crm": "000717",
+        "distretto": 0
+      },
+      {
+        "cognome": "ULIAN",
+        "nome": "MIRA EVELINA",
+        "crm": "000229",
+        "distretto": 0
+      },
+      {
+        "cognome": "VOLTOLINI",
+        "nome": "SUSY",
+        "crm": "000237",
+        "distretto": 0
+      },
+      {
+        "cognome": "PITTOZZI",
+        "nome": "ANTONIETTA",
+        "crm": "000648",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000546",
+    "descrizione": "MEDICINA DI RETE         ",
+    "medici": [
+      {
+        "cognome": "PAGIN",
+        "nome": "TERESA",
+        "crm": "000801",
+        "distretto": 0
+      },
+      {
+        "cognome": "BAHRI",
+        "nome": "MARK",
+        "crm": "000812",
+        "distretto": 0
+      },
+      {
+        "cognome": "MINUZ",
+        "nome": "ISEO",
+        "crm": "000547",
+        "distretto": 0
+      },
+      {
+        "cognome": "RUTOLO",
+        "nome": "ALESSIA",
+        "crm": "000253",
+        "distretto": 0
+      },
+      {
+        "cognome": "CULOS",
+        "nome": "MARGARET",
+        "crm": "000799",
+        "distretto": 0
+      },
+      {
+        "cognome": "GIACOMELLI PENON",
+        "nome": "IOLE ANNA",
+        "crm": "000521",
+        "distretto": 0
+      },
+      {
+        "cognome": "GUAGLIONE",
+        "nome": "SILVIO",
+        "crm": "000582",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000545",
+    "descrizione": "MEDICINA DI GRUPPO       ",
+    "medici": [
+      {
+        "cognome": "MORBIATO",
+        "nome": "ADELE",
+        "crm": "001205",
+        "distretto": 0
+      },
+      {
+        "cognome": "TODESCO",
+        "nome": "ZUMILDA",
+        "crm": "000879",
+        "distretto": 0
+      }
+    ]
+  },
+  {
+    "id": "AA000544",
+    "descrizione": "MEDICINA IN ASSOCIAZIONE ",
+    "medici": [
+      {
+        "cognome": "BORSETTI",
+        "nome": "DARIO",
+        "crm": "000145",
+        "distretto": 0
+      },
+      {
+        "cognome": "ROSA\u0027",
+        "nome": "JOLANDA",
+        "crm": "000467",
+        "distretto": 0
+      },
+      {
+        "cognome": "CORAZZIN",
+        "nome": "CARLA TERESA",
+        "crm": "000105",
+        "distretto": 0
+      },
+      {
+        "cognome": "METOZZI",
+        "nome": "CONSILIA",
+        "crm": "000349",
+        "distretto": 0
+      },
+      {
+        "cognome": "TONASSO",
+        "nome": "JOCELYNE VICTOR",
+        "crm": "000865",
+        "distretto": 0
+      }
+    ]
+  }
+]
