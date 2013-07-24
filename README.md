@@ -6,7 +6,8 @@
 
 
 ## Redesigning the concept of healthcare in the 21st Century... through ICT! ##
-===
+
+
 
 LICENSE: (C)2013 - Copyright by "7am International Development Group". All rights reserved. The source code is publicly available for reading only. No other permissions are given to the public, unless otherwise stated or after having obtained an explicit written agreement with the Authors for that purpose.
 
