@@ -1,7 +1,7 @@
 7am
 ===
 
-"7am" Team Official GitHub Repository - EESTEC Summer School 2013
+"7am International Development Group" Official GitHub Repository - EESTEC Summer School 2013
 <br>"CAPPSULA" Project Official GitHub Repository - EESTEC Summer School 2013</br>
 
 <br>+++ Redesigning the concept of healthcare in the 21st Century... through ICT! +++<br>
